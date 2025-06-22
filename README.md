@@ -260,3 +260,4 @@ Contributions are welcome! Please:
 - Template management
 - Webhook support
 # Whatsapp_taqnyat
+# Whatsapp_taqnyat
